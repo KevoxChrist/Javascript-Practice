@@ -1,2 +1,2 @@
 # Javascript-Practice
-Exercises I coded to learn Python
+Exercises I coded to learn JavaScript
